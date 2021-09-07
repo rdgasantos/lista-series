@@ -1,0 +1,14 @@
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\rodrigo.alberto\source\repos\ConsoleApp1\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
